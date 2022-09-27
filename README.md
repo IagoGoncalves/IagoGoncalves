@@ -2,6 +2,7 @@
 
 - 🔭 Hoje eu trabalho com desenvolvimento front-end
 - 🌱 Estou estudando React
+- 🌱 I'm studying english language
 - 📫 Contate-me no email: contato@iagodev.com.br 
 - 😄 Pronouns: ele/dele
 
