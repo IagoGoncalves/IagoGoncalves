@@ -1,6 +1,6 @@
 ### Olá, eu sou o Iago Gonçalves👋
 
-- 🔭 Hoje eu trabalho com desenvolvimento front-end
+- 🔭 Hoje eu trabalho com desenvolvimento fullstack
 - 🌱 Estou estudando React
 - 🌱 I'm studying english language
 - 📫 Contate-me no email: iago_375@hotmail.com
