@@ -25,10 +25,7 @@
 ##
   
 <div>
-   <a href="[https://www.iagodev.com.br](https://iagogoncalves.github.io/portfolio)" target="_blank"><img style="width: 32px;" src="https://cdn-icons-png.flaticon.com/512/3037/3037366.png" target="_blank"></a>
   <a href="https://www.instagram.com/iago.developer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:iago_375@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/goncalves-iago/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  
-![Snake animation](https://github.com/IagoGoncalves/IagoGoncalves/blob/output/github-contribution-grid-snake.svg)
