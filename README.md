@@ -1,6 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=40&pause=1000&color=cf9075&background=FFFFFF00&vCenter=true&width=700&height=60&lines=%F0%9F%91%8B+Olá!+Prazer,+meu+nome+é+Juliane!)](https://git.io/typing-svg)
-
-### Olá, eu sou o Iago Gonçalves👋
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=40&pause=1000&color=cf9075&background=FFFFFF00&vCenter=true&width=700&height=60&lines=%F0%9F%91%8B+Olá!+Prazer,+meu+nome+é+Iago!)](https://git.io/typing-svg)
 
 - 🔭 Hoje eu trabalho com desenvolvimento fullstack
 - 🌱 Estou estudando Golang
