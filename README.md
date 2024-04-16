@@ -1,10 +1,9 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=40&pause=1000&color=cf9075&background=FFFFFF00&vCenter=true&width=700&height=60&lines=%F0%9F%91%8B+Olá!+Prazer,+meu+nome+é+Iago!)](https://git.io/typing-svg)
 
 - 🔭 Hoje eu trabalho com desenvolvimento fullstack
-- 🌱 Estou estudando Golang
+- 🌱 Estou estudando React Native
 - 🌱 I'm studying english language
 - 📫 Contate-me no email: iago_375@hotmail.com
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/IagoGoncalves">
